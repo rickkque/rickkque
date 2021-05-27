@@ -5,30 +5,30 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Languages
 <p>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p><br>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_html_icon_130541.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_css_icon_130661.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/64/javascript_icon_130900.png"/>
+</p><br><br><br>
 
 ## Frameworks
 <p>
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p><br>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_node_icon_130301.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/npm_original_wordmark_logo_icon_146402.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_git_icon_130581.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/691/PNG/64/google_firebase_icon-icons.com_61475.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_logo_icon_146619.png"/>
+</p><br><br><br>
 
 ## Learning
 <p>
-<img align="left" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
-<img align="left" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p><br>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/ruby_plain_logo_icon_146361.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/rails_plain_wordmark_logo_icon_146377.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_line_logo_icon_146579.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/electron_original_logo_icon_146538.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/express_original_logo_icon_146527.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2389/PNG/64/unity_logo_icon_144772.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_mysql_icon_130379.png"/>
+</p><br><br><br>
 
 ## Design
 <p>
