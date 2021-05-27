@@ -3,7 +3,7 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickkque&show_icons=false&theme=dark)<br>
 
-## Languages And Frameworks
+## Languages and Frameworks
 <p>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_html_icon_130541.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_css_icon_130661.png"/>
