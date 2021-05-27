@@ -1,7 +1,7 @@
 ## About
 Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My interest at the moment is Web Development, I also study Game Design, C # with Unity and C # with Windows Forms. My current knowledge is with HTML CSS and JavaScript.
 
-## <a href="https://pcicktherick.works/">M•Y WEB•SITE</a>
+## <a href="https://pcicktherick.works/">MY•WEB•SITE</a>
 
 
 ## Languages
