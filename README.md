@@ -1,7 +1,7 @@
 ## About
-Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My interest at the moment is Web Development, I also study Game Design, C # with Unity and C # with Windows Forms. My current knowledge is with HTML CSS and JavaScript.
+Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My interest at the moment is Web Development, I also study Game Design, C # with Unity and C # with Windows Forms. My current knowledge is with HTML CSS and JavaScript.<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickkque&show_icons=false&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickkque&show_icons=false&theme=dark)<br>
 
 ## Languages And Frameworks
 <p>
