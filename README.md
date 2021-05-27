@@ -33,7 +33,7 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/canva_logo_icon_168460.png"/>
 </p><br><br><br>
 
-## IDEs And OS
+## IDEs and OS
 <p>
 <img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
