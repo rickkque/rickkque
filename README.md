@@ -32,12 +32,11 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Design
 <p>
-<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-</p><br>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/figma_logo_icon_170157.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/513/PNG/64/Illustrator-3_icon-icons.com_50984.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/358/PNG/64/Adobe_Photoshop_36590.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/canva_logo_icon_168460.png"/>
+</p><br><br><br>
 
 ## IDEs
 <p>
