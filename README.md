@@ -27,7 +27,6 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/electron_original_logo_icon_146538.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_mysql_icon_130379.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/615/PNG/64/Unity_icon-icons.com_56592.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/express_original_logo_icon_146527.png"/>
 </p><br><br><br>
 
 ## Design
