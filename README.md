@@ -3,51 +3,43 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickkque&show_icons=false&theme=dark)
 
-## Languages
+## Languages And Frameworks
 <p>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_html_icon_130541.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_css_icon_130661.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/64/javascript_icon_130900.png"/>
-</p><br><br><br>
-
-## Frameworks
-<p>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_node_icon_130301.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/npm_original_wordmark_logo_icon_146402.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_git_icon_130581.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/691/PNG/64/google_firebase_icon-icons.com_61475.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png"/>
+<img align="left" height="64" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_logo_icon_146619.png"/>
 </p><br><br><br>
 
-## Learning
+## Still Studying
 <p>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/ruby_plain_logo_icon_146361.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/rails_plain_wordmark_logo_icon_146377.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_line_logo_icon_146579.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/electron_original_logo_icon_146538.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_mysql_icon_130379.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/615/PNG/64/Unity_icon-icons.com_56592.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/64/unityeditoricon_103179.png"/>
 </p><br><br><br>
 
 ## Design
 <p>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/figma_logo_icon_170157.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/513/PNG/64/Illustrator-3_icon-icons.com_50984.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/358/PNG/64/Adobe_Photoshop_36590.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/canva_logo_icon_168460.png"/>
 </p><br><br><br>
 
-## IDEs
+## IDEs And OS
 <p>
-<img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p><br>
-
-## OS
-<p>
-<img align="left" align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p><br>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
+<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
+<img align="left" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
+</p><br><br><br>
 
 ## ♡ Click on "sponsor" to donate any amount to help me with my studies ♡
 [<img align="left" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>][donate]<br>
