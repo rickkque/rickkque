@@ -17,28 +17,28 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Still Studying
 <p>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/ruby_plain_logo_icon_146361.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/rails_plain_wordmark_logo_icon_146377.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/csharp_line_logo_icon_146579.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/electron_original_logo_icon_146538.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_mysql_icon_130379.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/64/unityeditoricon_103179.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_line_logo_icon_146579.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/1495/PNG/32/unityeditoricon_103179.png"/>
 </p><br><br><br>
 
 ## Design
 <p>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/64/canva_logo_icon_168460.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/32/canva_logo_icon_168460.png"/>
 </p><br><br><br>
 
 ## IDEs and OS
 <p>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
-<img align="left" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
-<img align="left" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
+<img align="left" height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
 </p><br><br><br>
 
 ## ♡ Click on "sponsor" to donate any amount to help me with my studies ♡
