@@ -60,7 +60,7 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 [donate]:https://nubank.com.br/pagar/1kvjqh/pZII7Fvb9u
 [gmail]:https://mail.google.com/mail/u/0/#search/Contact+me+on+my+email%3A+rickkque%40gmail.com
-[whatsapp]:http://api.whatsapp.com/send?phone=553592260481
+[whatsapp]:http://api.whatsapp.com/send?phone=5535992260481
 [facebook]:https://www.facebook.com/henrique.cesar.96780/
 [instagram]:https://www.instagram.com/rickkque/
 [twitter]:https://twitter.com/rickkque
