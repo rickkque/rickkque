@@ -19,7 +19,6 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Still Studying
 <p>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_line_logo_icon_146579.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_mysql_icon_130379.png"/>
@@ -38,7 +37,7 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 <p>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
-<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
+<img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/640px-Logo-ubuntu_cof-orange-hex.svg.png"/>
 <img align="left" height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/64/Windows_Phone_icon-icons.com_66782.png"/>
 </p><br><br><br>
 
