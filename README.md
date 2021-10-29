@@ -19,8 +19,8 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Databases
 <p>
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
+  <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"/>
+  <img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>
 </p><br><br><br>
 
 ## Still Studying
