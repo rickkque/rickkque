@@ -5,6 +5,8 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Languages and Frameworks
 <p>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png"/>
@@ -17,7 +19,6 @@ Hello, my name is Henrique Cesar, I'm 20 years old and I'm from Brazil. My inter
 
 ## Still Studying
 <p>
-<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/ruby_plain_logo_icon_146361.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/rails_plain_wordmark_logo_icon_146377.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/csharp_line_logo_icon_146579.png"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/32/electron_original_logo_icon_146538.png"/>
